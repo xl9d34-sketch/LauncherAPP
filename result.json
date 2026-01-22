@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-01-22T16:00:39+00:00",
+    "Name": "Succubus Hunt",
+    "descript": "Действие этой игры происходит в мире, где девушки-монстры невероятно распространены, а мужчины редки! Беги, крадись и пробивайся сквозь эту захватывающую демонстрацию с 80 садистскими, милыми и похотливыми девушками-монстрами, с которыми тебе предстоит столкнуться ~!",
+    "version": {
+      "1.52": "hentaigamess/4848",
+      "1.05": "hentaigamess/3239",
+      "0.8": "hentaigamess/2606",
+      "0.61": "hentaigamess/2063",
+      "0.4": "hentaigamess/1638"
+    },
+    "tag": [
+      "#платформер"
+    ],
+    "photos": [
+      "https://img2.teletype.in/files/5a/8a/5a8a85fc-0647-456f-b455-154dc3a4148a.jpeg",
+      "https://img2.teletype.in/files/58/92/5892fd1c-5a21-4084-97e8-34cb11f715de.jpeg",
+      "https://img1.teletype.in/files/0b/19/0b193b57-4dd6-4c7b-bdd5-6bc7bda791c6.jpeg"
+    ],
+    "teletype_gallery": "https://teletype.in/@xl9d/ih57kgjyh3xr"
+  },
+  {
     "date": "2026-01-21T19:19:36+00:00",
     "Name": "Elena's Story",
     "descript": "Елена, искательница приключений, попадает в плен к унианам — жестокой и склонной к садизму получеловеческой расе, известной тем, что она охотится на людей и обращает их в рабство.",
@@ -4438,26 +4459,6 @@
       "https://img3.teletype.in/files/ec/56/ec56cba2-3ff2-4069-9062-64a39e10f0ad.jpeg",
       "https://img4.teletype.in/files/b7/f4/b7f4dab7-7f71-4eb5-8a7b-87f25a1e5abe.jpeg",
       "https://img2.teletype.in/files/de/e5/dee577de-0633-4af5-b337-f72823f91451.jpeg"
-    ],
-    "teletype_gallery": ""
-  },
-  {
-    "date": "2025-02-09T16:51:19+00:00",
-    "Name": "Succubus Hunt",
-    "descript": "Действие этой игры происходит в мире, где девушки-монстры невероятно распространены, а мужчины редки! Беги, крадись и пробивайся сквозь эту захватывающую демонстрацию с 80 садистскими, милыми и похотливыми девушками-монстрами, с которыми тебе предстоит столкнуться ~!",
-    "version": {
-      "1.05": "hentaigamess/3239",
-      "0.8": "hentaigamess/2606",
-      "0.61": "hentaigamess/2063",
-      "0.4": "hentaigamess/1638"
-    },
-    "tag": [
-      "#платформер"
-    ],
-    "photos": [
-      "https://img2.teletype.in/files/5a/8a/5a8a85fc-0647-456f-b455-154dc3a4148a.jpeg",
-      "https://img2.teletype.in/files/58/92/5892fd1c-5a21-4084-97e8-34cb11f715de.jpeg",
-      "https://img1.teletype.in/files/0b/19/0b193b57-4dd6-4c7b-bdd5-6bc7bda791c6.jpeg"
     ],
     "teletype_gallery": ""
   },
