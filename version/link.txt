@@ -1,1 +1,4 @@
-
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/version/version.txt
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/version/alarmVersion.txt
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/version/UpdateInfo.txt
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/version/download.json
