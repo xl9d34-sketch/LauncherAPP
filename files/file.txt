@@ -1,1 +1,5 @@
 https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/files/Data.json
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/files/Privat.toriteling
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/files/links.json
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/files/osnovas.json
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/files/predpocas.json
