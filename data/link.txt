@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/data/Games.json
+https://github.com/xl9d34-sketch/LauncherAPP/blob/main/data/channels.txt
+https://raw.githubusercontent.com/xl9d34-sketch/LauncherAPP/refs/heads/main/data/chat.txt
