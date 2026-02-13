@@ -1,6 +1,6 @@
 [
  {
-   "code": "1234",
+   "code": "test1",
    "timestamp": "1771005600",
    "packageName": "hg.toriteling.test",
    "userId": {}
@@ -12,7 +12,7 @@
    "userId": {}
  },
  {
-   "code": "1234",
+   "code": "1234131",
    "timestamp": "1771005600",
    "packageName": "hg.toriteling.test",
    "userId": {}
