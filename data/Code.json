@@ -1,20 +1,8 @@
 [
- {
-   "code": "test1",
-   "timestamp": "1771005600",
-   "packageName": "hg.toriteling.test",
-   "userId": {}
- },
- {
-   "code": "1234",
-   "timestamp": "1771005600",
-   "packageName": "hg.toriteling.test",
-   "userId": {}
- },
- {
-   "code": "1234131",
-   "timestamp": "1771005600",
-   "packageName": "hg.toriteling.test",
-   "userId": {}
- }
+  {
+    "code": "Code1",
+    "timestamp": "1771433826",
+    "packageName": "hg.toriteling.game",
+    "userId": {}
+  }
 ]
