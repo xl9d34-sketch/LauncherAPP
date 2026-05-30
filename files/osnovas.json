@@ -1,5 +1,23 @@
 [
   {
+    "name": "Live with seniors for 14 days",
+    "date": "2026-05-29T19:34:06+00:00",
+    "text": "Веселитесь с девушкой на весенних каникулах 14 дней.",
+    "tags": [
+      "#русского_нет",
+      "#файтинг"
+    ],
+    "photo": [
+      "https://img1.teletype.in/files/c9/50/c9502ebc-67da-4a9b-b7cf-b9633229add8.jpeg",
+      "https://img3.teletype.in/files/ea/b6/eab6e387-bc4f-454d-b049-30066b22cd9f.jpeg",
+      "https://img3.teletype.in/files/2b/0b/2b0b77a6-0b4b-4a2c-bb5d-f2f08d4dab5a.jpeg"
+    ],
+    "versions": {
+      "1.0": "https://t.me/tonhent/2826",
+      "1.0.5 (обнова)": "https://t.me/tonhent/5464"
+    }
+  },
+  {
     "name": "Syahata's bad day",
     "date": "2026-05-10T21:37:53+00:00",
     "text": "Вам предстоит управлять главной героиней, чтобы сбежать из места, полного зомби, и наконец добраться до убежища и спастись.\nС 0 - убрать цензуру\nPlayer.PistolMagazine = 10 - изменить кол-во патронов для пистолета\nPlayer.RifleMagazine = 10 - изменить Кол-во патронов для винтовки",
@@ -7291,23 +7309,6 @@
     ],
     "versions": {
       "1.0": "https://t.me/tonhent/2831"
-    }
-  },
-  {
-    "name": "Live with seniors for 14 days",
-    "date": "2024-11-01T17:44:47+00:00",
-    "text": "Веселитесь с девушкой на весенних каникулах 14 дней.",
-    "tags": [
-      "#русского_нет",
-      "#файтинг"
-    ],
-    "photo": [
-      "https://img1.teletype.in/files/80/55/80554f41-4f41-4a43-8dd2-a992ce05cf2e.jpeg",
-      "https://img4.teletype.in/files/fb/6b/fb6b39e3-02b3-4fad-b6ec-382809f16f87.jpeg",
-      "https://img4.teletype.in/files/7c/f0/7cf0af04-16aa-4bb2-9a49-a5d2d332e6e2.jpeg"
-    ],
-    "versions": {
-      "1.0": "https://t.me/tonhent/2826"
     }
   },
   {
